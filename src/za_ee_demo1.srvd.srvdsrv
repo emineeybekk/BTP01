@@ -1,0 +1,7 @@
+@EndUserText.label: 'Test'
+define service ZA_EE_DEMO1 {
+  expose zc_ee_demo1;
+  expose za_ee_demo2;
+  expose za_ee_demo3;
+  expose za_ee_demo4;
+}
